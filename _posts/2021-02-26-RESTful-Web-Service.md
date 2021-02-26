@@ -3,7 +3,8 @@ title: "[Spring] Building a RESTful Web Service"
 categories: Spring
 toc : true
 toc_sticky: true
-date: 2021-02-25
+date: 2021-01-19
+last_ modified_at : 2021-02-26
 ---
 
 Spring을 이용하여 간단하게 RESTful Web Service을 구축해보자.
