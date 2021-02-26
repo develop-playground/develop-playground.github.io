@@ -1,7 +1,7 @@
 ---
 title: "Building a RESTful Web Service"
 date: 2021-02-26 09:28:00 -0400
-categories: Spring SpringBoot Web
+categories: Spring
 ---
 ### 무엇을 개발할 것인가
 
