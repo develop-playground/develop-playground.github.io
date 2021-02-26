@@ -1,8 +1,9 @@
 ---
-title: "Building a RESTful Web Service"
-date: 2021-02-26 09:28:00 -0400
+title: "[Spring] Building a RESTful Web Service"
 categories: Spring
+date: 2021-02-25
 ---
+
 ### 무엇을 개발할 것인가
 
 사용자가 [`http://localhost:8080/greeting`](http://localhost:8080/greeting) 을 요청하게 되면 다음에 표시된 JSON 형태로 응답한다.
