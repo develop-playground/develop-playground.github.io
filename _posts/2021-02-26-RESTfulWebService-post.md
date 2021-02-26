@@ -3,14 +3,6 @@ title: "Building a RESTful Web Service"
 date: 2021-02-26 09:28:00 -0400
 categories: Spring SpringBoot Web
 ---
-# Building a RESTful Web Service
-
-생성일: 2021년 1월 19일 오후 5:12
-
-이 가이드는 Spring으로 "Hello, World" `RESTful` 웹 서비스를 만드는 과정입니다.
-
----
-
 ### 무엇을 개발할 것인가
 
 사용자가 [`http://localhost:8080/greeting`](http://localhost:8080/greeting) 을 요청하게 되면 다음에 표시된 JSON 형태로 응답한다.
