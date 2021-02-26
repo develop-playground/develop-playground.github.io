@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Dev. Playground"
 title_separator          : "-"
 subtitle                 : "Dev. Playground Crew Tech Blog" # site tagline that appears below site title in masthead
-name                     : "Byeongsoon"
+name                     : "Dev. Playground"
 description              : "개발자들의 놀이터"
 url                      : "https://develop-playground.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "This Crew"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "우리는 절대적인 기술 수준이 아닌 **오늘하루 얼마나 성장했는가에 가치를 둡니다.**"
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
