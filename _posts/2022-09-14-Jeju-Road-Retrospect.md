@@ -1,3 +1,12 @@
+---
+title: "제주로드를 마치며 작성하는 회고록"
+categories: Project
+toc : true
+toc_sticky: true
+date: 2022-09-14
+last_ modified_at : 2022-09-14
+---
+
 # 🍊 제주로드를 마치며..
 
 `Dev.Playground` 라는 이름의 크루를 만들고 활동하면서 처음으로 크루원원들과 함께 참여한 프로젝트 ‘개발자들의 지극히 주관적인 제주도 여행 서포트 서비스, Jeju-Road’를 진행하면서 느꼈던 내용을 회고로 남긴다.
